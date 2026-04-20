@@ -1,4 +1,4 @@
-# Badger Protocal Specifications:
+# Badger Protocol Specifications:
 # Who controls it:
 The official registry is controlled by the BDSA (Badger Domain Server Authority)
 You register a site via Namebeans (The registrar)
